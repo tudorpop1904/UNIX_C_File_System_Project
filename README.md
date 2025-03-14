@@ -5,4 +5,4 @@ This project stands as an assignment from my Operating Systems lecturer in my se
 
 # Software Requirements and Usage:
 
-A UNIX based system will be required. All of the source code can be found in "a1.c", and to test the functionality, one may run the program as specified in the source code, or the tester program by typing "python3 tester.py --docker" for testing the automated grade.
+A UNIX based system will be required. All of the source code can be found in "a1.c", and to test the functionality, one may run the program as specified in the source code / the PDF files, or the tester program by typing "python3 tester.py --docker" for testing the automated grade.
